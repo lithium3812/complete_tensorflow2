@@ -9,5 +9,14 @@ The folder name indicates the focus of the project inside, or the adopted neural
 
 ### Contents
 - Ordinary Artificial Neural Network
+- Convolutional Nrural Network
+- Recurrent Neural Network
+- Auto Encoders
+- Generative Adversarial Networks
+- Application to Natural Language Processing
+- Deployment of NNs on web
+
+### Projects
+- 
 
 
