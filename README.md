@@ -17,6 +17,7 @@ The folder name indicates the focus of the project inside, or the adopted neural
 - Deployment of NNs on web
 
 ### Projects
+- Build a neral network model to predict which customers have high risk of default, learning from a loan data with customers' features.
 - 
 
 
