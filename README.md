@@ -5,6 +5,9 @@ These files are assignments and projects I worked on in a Udemy Deep Learning co
 
 I did not include other notebooks used for demonstration by the instructor.
 
-The course covered most of the popular machine learning algorithms. The folder name indicates the focus of the project inside, or the adopted algorithm.
+The folder name indicates the focus of the project inside, or the adopted neural network model. Data used for each project is stored in the foulder "DATA".
+
+### Contents
+- Ordinary Artificial Neural Network
 
 
